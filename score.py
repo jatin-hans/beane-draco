@@ -19,7 +19,7 @@ for line in open("verdicts.jsonl", encoding="utf-8"):
 score = {n: norm(*a) for n, a in task.items()}
 assert len(score) == 100 and total == 3934, (len(score), total)
 vals = list(score.values())
-print(f"score {st.mean(vals):.2f} over {len(vals)} tasks; median {st.median(vals):.1f}, lowest {min(vals):.1f}, highest {max(vals):.1f}")
+print(f"score {st.mean(vals):.1f} over {len(vals)} tasks; median {st.median(vals):.1f}, lowest {min(vals):.1f}, highest {max(vals):.1f}")
 print(f"pass rate {100 * passed / total:.1f}% of {total} criteria; penalties triggered {pen[0]} of {pen[1]}")
 by_dom = defaultdict(list)
 for n, s in score.items(): by_dom[domain[n]].append(s)
