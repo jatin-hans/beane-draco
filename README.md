@@ -1,17 +1,18 @@
 # Beane Harness on DRACO
 
-**69.35 on all 100 tasks of [DRACO](https://arxiv.org/abs/2602.11685)**, Perplexity's deep research benchmark, with
+**69.4 on all 100 tasks of [DRACO](https://arxiv.org/abs/2602.11685)**, Perplexity's deep research benchmark, with
 **73.3% of its 3,934 criteria passed**. Every report, every verdict and the scripts that produced the numbers are in this
 repository.
 
-Beane Harness is a multi-agent deep research system built and maintained by Jatin Hans. It is also listed #1 on
-DeepResearch Bench II (60.52) and #2 on DeepResearch Bench (56.14): [jatinhans.com/lab/researcher](https://jatinhans.com/lab/researcher/).
+Beane Harness is a multi-agent deep research system built and maintained by Jatin Hans. It is on the official DeepResearch Bench
+leaderboards: 60.5 on DeepResearch Bench II, where it entered at #1 and is the only independent entry on the board, and 56.1
+on DeepResearch Bench, in the top three: [jatinhans.com/lab/researcher](https://jatinhans.com/lab/researcher/).
 
 ## Result
 
 | | |
 |---|---|
-| Score, mean over 100 tasks | **69.35** |
+| Score, mean over 100 tasks | **69.4** |
 | Criteria passed | **73.3%** of 3,934 |
 | Median task | 71.1 |
 | Lowest and highest task | 26.9, 94.9 |
@@ -26,10 +27,10 @@ One run per task, the question as its only input, all 100 tasks, no task rerun o
 
 | System | Score | Pass rate | Judge | Reported by |
 |---|---|---|---|---|
-| Valyu DeepResearch | 72.68 | | Gemini 3 Pro, as reported | Valyu |
+| Valyu DeepResearch | 72.7 | | Gemini 3 Pro, as reported | Valyu |
 | CoChat | 71.1 | | Gemini 3.1 Pro | CoChat |
 | Perplexity Deep Research (Opus 4.6) | 70.5 | 72.8% | Gemini 3 Pro | DRACO paper |
-| **Beane Harness** | **69.35** | **73.3%** | Gemini 3.1 Pro | this repository |
+| **Beane Harness** | **69.4** | **73.3%** | Gemini 3.1 Pro | this repository |
 | OpenRouter Fusion | 69.0 | | Gemini 3.1 Pro | OpenRouter |
 | Perplexity Deep Research (Opus 4.5) | 67.2 | | Gemini 3 Pro | DRACO paper |
 | Claude Opus 4.6 with search tools | 59.8 | | Gemini 3 Pro | DRACO paper |
