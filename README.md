@@ -18,7 +18,6 @@ on DeepResearch Bench, in the top three: [jatinhans.com/lab/researcher](https://
 | Lowest and highest task | 26.9, 94.9 |
 | Penalty criteria triggered | 107 of 415 |
 | Tasks failed or retried | 0 |
-| Cost per task | $12.58 |
 | Time per task | about 25 minutes |
 
 One run per task, the question as its only input, all 100 tasks, no task rerun or replaced.
