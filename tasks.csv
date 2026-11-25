@@ -1,0 +1,101 @@
+task,dataset_id,domain,score,criteria_passed,criteria,report
+1,0c2c668a-c3bf-41af-93c9-b5614ff63508,Academic,78.55,43,53,reports/001.md
+2,a78eed67-ebe3-425e-a467-d54ee8949c8b,Finance,65.05,27,38,reports/002.md
+3,f6de7687-7cff-4f68-93ea-f632bf6266af,Shopping/Product Comparison,82.19,37,45,reports/003.md
+4,f0bed5aa-f7c4-4013-8d0c-10ffebeaf300,Finance,81.03,42,49,reports/004.md
+5,e1f2c310-d311-49da-b0e4-ee855603469d,Technology,57.52,15,23,reports/005.md
+6,f004b46b-c0e7-4e86-a072-c7491328d538,Personalized Assistant,71.18,29,40,reports/006.md
+7,1516d849-b413-4fab-9153-c4d9b16a1aa9,Shopping/Product Comparison,84.35,30,35,reports/007.md
+8,b0e3597d-6cda-4082-a5b4-234aac7d2684,Shopping/Product Comparison,71.43,30,40,reports/008.md
+9,79224558-75f7-4e51-bc24-51f1e3ede921,Technology,48.67,21,37,reports/009.md
+10,cd19ee22-ded0-4fee-b1a0-51f074d72b8b,Medicine,85.26,19,23,reports/010.md
+11,ca0edd2d-c9b8-4b85-9b40-754f4865579a,Needle in a Haystack,69.39,20,27,reports/011.md
+12,ce522bc2-e8a2-436b-971f-dd4972f23d39,General Knowledge,58.87,27,41,reports/012.md
+13,342b15b8-0ae1-43ce-9ebe-c7318179f156,Finance,76.23,54,68,reports/013.md
+14,1ed18b1d-8436-44e5-9924-a503514c387d,Finance,53.26,22,35,reports/014.md
+15,faeeb64e-e5eb-4768-a9b9-8ef19de51473,Shopping/Product Comparison,70.46,28,38,reports/015.md
+16,6c59b2a0-c097-4c69-ad03-2c4ea2ec579b,Needle in a Haystack,75.12,22,28,reports/016.md
+17,c66a5c80-df51-4914-88dd-8b08aff7380c,Needle in a Haystack,81.82,28,33,reports/017.md
+18,aca95495-b0fe-4330-90fc-d2fd1e2c709e,UX Design,51.53,25,42,reports/018.md
+19,6f425968-0c5b-42d8-a5c5-0b20d2f1d71e,Academic,89.29,43,48,reports/019.md
+20,34e9b780-7fb6-426a-bc39-c340baa578e8,Shopping/Product Comparison,63.46,28,40,reports/020.md
+21,262b3145-5b6d-486b-a09f-c8e6a8f98e20,Technology,94.12,33,35,reports/021.md
+22,eb3965d1-c466-4c4c-bd4a-c8a0b255b893,UX Design,77.20,33,40,reports/022.md
+23,0a652d00-5c22-4621-8ec4-dd92b1f1450b,Personalized Assistant,90.05,28,30,reports/023.md
+24,e15a37b4-cd7f-4f52-ba81-9f33b24aabe9,Academic,84.15,40,47,reports/024.md
+25,4f36f602-6c14-4c23-a37d-e5ee92ed4552,Medicine,71.10,32,42,reports/025.md
+26,b3c576e7-dfc6-403f-90e7-53c011884d5c,General Knowledge,74.69,26,33,reports/026.md
+27,3a8db70a-d906-4bde-bf87-c0c74504409a,Finance,68.45,55,77,reports/027.md
+28,c6ca6371-72de-4f96-bc90-c4273080382c,UX Design,74.32,26,34,reports/028.md
+29,9b35aaf1-f3cf-466f-96e5-dde018b0ef35,Academic,81.82,28,32,reports/029.md
+30,7786ef30-1bb6-479b-9437-333ff50d5a3d,General Knowledge,67.96,29,41,reports/030.md
+31,b8ff32b6-967c-41bf-8277-69afe025293e,Medicine,68.48,19,25,reports/031.md
+32,646b575d-383d-483b-82bd-01e5526212c7,Technology,79.15,23,29,reports/032.md
+33,97378684-875a-4a7d-ad19-d7d77942f131,Finance,74.43,33,45,reports/033.md
+34,614a5d4c-5387-4f42-a319-61486bbcde0f,General Knowledge,59.12,23,37,reports/034.md
+35,e303d1aa-0b0c-4fe1-9806-e46058d6b3f3,Technology,61.05,23,34,reports/035.md
+36,868f0410-07c9-4609-a7f6-2ad72d678006,UX Design,63.90,27,35,reports/036.md
+37,b3d9ac35-7d3f-4fd5-925e-bbaa40c0de51,Needle in a Haystack,33.33,8,16,reports/037.md
+38,cd680e2e-c0b9-4b54-948c-fd824d804a52,UX Design,60.32,19,29,reports/038.md
+39,3b5505fb-dab6-44cb-9a14-746b1cd82d25,Law,93.98,42,44,reports/039.md
+40,e3734e91-e2d1-4696-bdee-81c8bfa3127e,Academic,85.71,34,39,reports/040.md
+41,adacf6f4-9ec0-4d4e-a8c4-388aad0b2fb0,Needle in a Haystack,38.89,16,31,reports/041.md
+42,09456551-1fdc-46fb-a931-4f3a2dfe21a3,Technology,59.59,27,44,reports/042.md
+43,f1b0f094-fa7a-4f18-adbd-f4cd86633f77,Personalized Assistant,63.01,24,35,reports/043.md
+44,9f36b55b-28a6-4c4f-b34d-14acc22e5352,General Knowledge,78.00,46,57,reports/044.md
+45,8cf941c5-3ac1-4801-929b-8f5bab8691c7,Technology,72.19,31,41,reports/045.md
+46,72e81ce6-8d1f-4143-90d5-d25d7a212c85,Finance,75.59,36,44,reports/046.md
+47,7e9fa201-6bbd-4e77-a8ed-c62b8f551cab,General Knowledge,61.57,22,31,reports/047.md
+48,a4bae04b-4337-4f28-ab8b-5a518cf58fe0,Personalized Assistant,50.72,23,40,reports/048.md
+49,056e9cbe-d8eb-48a8-9618-432222100e79,Shopping/Product Comparison,50.87,30,54,reports/049.md
+50,bfdf5b0d-efe9-48fc-9399-2127f71e52c7,Shopping/Product Comparison,66.24,32,45,reports/050.md
+51,ab074bda-d583-42d0-85ce-6c694a51d3ce,Shopping/Product Comparison,70.10,31,41,reports/051.md
+52,71e3456f-e1df-4108-872f-f00f8a44acc6,Finance,66.14,35,49,reports/052.md
+53,78bfa372-ba7a-46e9-9c10-c3e80366afeb,Shopping/Product Comparison,62.97,27,40,reports/053.md
+54,b02ede76-2353-40f3-9da9-d319c617ab0d,UX Design,90.03,34,37,reports/054.md
+55,82508e50-497c-445a-b1dd-fd9d7e6dafda,Academic,74.14,26,32,reports/055.md
+56,236d5ae8-8623-4436-b527-2853aeea2db9,Finance,85.77,28,32,reports/056.md
+57,51c9e7b9-ab11-443e-97a4-9a8e75f2c9b8,Finance,78.32,30,38,reports/057.md
+58,36457179-b5e5-4daa-9956-fde342aade9b,UX Design,66.27,23,31,reports/058.md
+59,3d801f46-5707-4ff5-8151-1168ff0f09c0,Finance,82.35,29,34,reports/059.md
+60,b0f9b509-dff8-4414-9404-fe0a35c43107,Shopping/Product Comparison,75.25,38,49,reports/060.md
+61,10e75d21-9e92-4878-b691-02fc87ae5d54,Finance,76.02,53,70,reports/061.md
+62,bea85f62-a722-48a9-8ece-fbfb62653997,Finance,49.32,25,46,reports/062.md
+63,cc4bd873-0661-4bd2-84bb-928e9e6f1a1c,Medicine,64.43,21,31,reports/063.md
+64,928aea10-3918-484b-980e-19d13a747e30,Law,61.25,18,25,reports/064.md
+65,9afd23d2-058d-469f-a663-91286ac0532f,Medicine,86.47,20,25,reports/065.md
+66,45b0c59c-9d2a-4000-b26e-ee44bf1e7c81,Personalized Assistant,63.18,23,35,reports/066.md
+67,95755c13-92a4-46fa-812b-4461b18f6a17,Personalized Assistant,56.04,20,33,reports/067.md
+68,101c18a4-ff10-4dca-8d43-95088f1b90dc,Academic,87.65,29,32,reports/068.md
+69,8e8b1864-6075-4d3b-8c4c-d427a5e3fc9f,Shopping/Product Comparison,43.03,19,39,reports/069.md
+70,ab17484f-fa6e-4e72-a970-e7cd6c5856d3,Law,94.90,29,31,reports/070.md
+71,8ca825d6-174a-489d-89b9-b000649a2477,Shopping/Product Comparison,38.51,17,36,reports/071.md
+72,5fbad062-f388-4a46-8b41-b0f9704c0530,UX Design,31.64,19,48,reports/072.md
+73,c2a1a24b-8a83-453f-9892-d17b533ffe93,Medicine,56.33,44,56,reports/073.md
+74,ce335c0c-f136-4408-a216-6a891cae861f,Academic,86.90,26,29,reports/074.md
+75,67dfb8ea-cc84-4fb9-abc2-4794aa20eb44,Finance,91.45,36,39,reports/075.md
+76,6b3233e6-9b05-465a-a872-724af25df719,Shopping/Product Comparison,69.04,27,38,reports/076.md
+77,35bc9c48-0853-469d-8bf7-8f6947ec4fb7,Academic,85.93,42,48,reports/077.md
+78,939cd89c-32e3-4ba3-a9c2-734a9f3b80d1,General Knowledge,81.82,23,28,reports/078.md
+79,c8aaa261-24b6-4142-916a-e0a1d98ee0b8,Shopping/Product Comparison,57.81,19,30,reports/079.md
+80,e179559d-08fd-4ca7-9f1b-5637d956b3d4,Finance,55.42,31,52,reports/080.md
+81,4b089235-06e7-4f1f-a815-96bb146cbbde,Shopping/Product Comparison,73.28,24,31,reports/081.md
+82,6128e19e-5d6c-41ab-aaf5-35a1d718050e,Finance,53.56,26,45,reports/082.md
+83,c63923e7-6ab4-4742-b739-49f5d1f1cfe4,Technology,87.32,34,38,reports/083.md
+84,ebac60ea-ea67-4b8f-986e-1e0aebed2b89,Technology,49.33,27,52,reports/084.md
+85,49d841f1-0c95-4a87-9b62-5e2a54e8e1a8,General Knowledge,75.98,30,36,reports/085.md
+86,785c8570-6aed-4517-aac2-1d56e16745b7,Finance,67.91,24,34,reports/086.md
+87,7d09292c-c8b7-4ae9-9864-1676135bd041,General Knowledge,58.91,30,49,reports/087.md
+88,10e9d085-a62f-4547-bbf3-62800b27950c,Shopping/Product Comparison,73.54,29,34,reports/088.md
+89,2aac5ef3-f127-4582-a8a6-8f02bda5681e,Finance,68.67,31,41,reports/089.md
+90,8e99d8d2-f6b9-4800-83a9-6f56829898fe,Law,89.71,24,26,reports/090.md
+91,9db832bc-c38d-4a0b-aebe-ea0fc96da563,Law,76.14,31,37,reports/091.md
+92,1070e6eb-7a8f-4ce9-8818-1931bcfdb2dd,Needle in a Haystack,77.66,37,46,reports/092.md
+93,a88bef13-7db6-4236-bdfa-da22ad75dc56,Academic,77.25,34,43,reports/093.md
+94,d1a4c3ea-9507-402c-9ef5-281ea2171c99,Law,72.08,27,36,reports/094.md
+95,43c7e377-7a85-4cd3-8865-7cf620e9f6bc,Academic,80.85,40,48,reports/095.md
+96,61afdc3a-219d-4ff0-aa67-b823429487ae,Academic,67.02,34,48,reports/096.md
+97,0e7281ec-bf16-4d84-9501-0de69a803c59,UX Design,36.99,17,36,reports/097.md
+98,69e0ce73-b0af-4f7c-a59d-71c96adc6a2b,Finance,26.86,20,65,reports/098.md
+99,e6fbba71-d917-4d1e-bd09-009ff9cd8e9b,Finance,73.20,40,52,reports/099.md
+100,91408757-a874-44b5-ad5a-66a22b39141d,Technology,65.99,24,34,reports/100.md
